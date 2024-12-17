@@ -1,3 +1,4 @@
+## Consulta en Database de Netflix
 ## Descripción
 
 Este proyecto consiste en una serie de consultas diseñadas para obtener información de la base de datos de Netflix. Fue realizado mientras estaba cursando un curso de SQL.
